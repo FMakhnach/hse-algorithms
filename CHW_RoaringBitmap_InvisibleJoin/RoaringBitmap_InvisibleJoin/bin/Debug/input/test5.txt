@@ -1,0 +1,4 @@
+DimDate.FullDateAlternateKey,FactResellerSales.SalesOrderLineNumber,FactResellerSales.ProductKey
+2
+DimPromotion.StartDate = '2010-12-29 00:00:00.000'
+DimDate.FullDateAlternateKey <> '2013-11-29'

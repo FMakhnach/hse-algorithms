@@ -1,0 +1,7 @@
+FactResellerSales.SalesOrderLineNumber,DimEmployee.LastName
+5
+DimReseller.BusinessType = 'Value Added Reseller'
+FactResellerSales.OrderQuantity > 3
+FactResellerSales.OrderQuantity <= 5
+DimEmployee.Gender = 'F'
+DimEmployee.MaritalStatus = 'M'

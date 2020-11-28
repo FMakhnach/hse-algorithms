@@ -1,0 +1,6 @@
+FactResellerSales.SalesOrderNumber,FactResellerSales.OrderDateKey,FactResellerSales.ProductKey
+4
+DimReseller.ProductLine <> 'Road'
+DimReseller.ProductLine <> 'Mountain'
+DimReseller.ProductLine <> 'touring'
+FactResellerSales.OrderQuantity >= 5

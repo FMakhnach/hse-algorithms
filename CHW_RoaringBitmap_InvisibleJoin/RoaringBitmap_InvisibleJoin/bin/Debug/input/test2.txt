@@ -1,0 +1,6 @@
+DimProduct.ProductAlternateKey
+4
+DimSalesTerritory.SalesTerritoryGroup = 'Europe'
+DimEmployee.Title <> 'European Sales Manager'
+DimCurrency.CurrencyAlternateKey <> 'USD'
+DimDate.FiscalYear > 2012

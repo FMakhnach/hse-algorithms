@@ -1,0 +1,10 @@
+FactResellerSales.SalesOrderLineNumber,DimSalesTerritory.SalesTerritoryRegion,DimEmployee.PayFrequency,DimDate.EnglishDayNameOfWeek,DimProduct.EnglishProductName,DimReseller.Phone
+8
+DimSalesTerritory.SalesTerritoryCountry = 'United States'
+DimEmployee.VacationHours < 30
+DimDate.DayNumberOfWeek <> 5
+DimProduct.DaysToManufacture > 2
+DimReseller.NumberEmployees > 22
+DimCurrency.CurrencyName = 'US Dollar'
+DimPromotion.EnglishPromotionCategory <> 'Reseller'
+FactResellerSales.OrderQuantity = 3
